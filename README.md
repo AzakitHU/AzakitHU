@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.tebex.io/webstore/1500847/images/1500847-3b82b202bc69ed28cefc9be84296fd21a2682b80.png" width="800" alt="Azakit Banner">
+<img src="https://cdn.discordapp.com/attachments/1219018879725080627/1488276974861553795/azakitgithubbanner.png?ex=69cc3171&is=69cadff1&hm=ce97a32e121b43703cccd772202db1d49cca61bc1df75d9841bee104248e0bde" width="800" alt="Azakit Banner">
 
 # ⚡ LEVEL UP YOUR SERVER ⚡
 ### WITH PREMIUM AZAKIT SCRIPTS
